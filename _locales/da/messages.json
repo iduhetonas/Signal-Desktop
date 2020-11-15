@@ -594,7 +594,7 @@
         }
     },
     "oneNonImageAtATimeToast": {
-        "message": "Når det vedhæftede ikke er et billed, er grænsen én vedhæftet fil pr. besked.",
+        "message": "Når det vedhæftede ikke er et billede, er grænsen én vedhæftet fil pr. besked.",
         "description": "An error popup when the user has attempted to add an attachment"
     },
     "cannotMixImageAndNonImageAttachments": {
@@ -1894,7 +1894,7 @@
         "description": "Shown in notifications and in the left pane when a GIF is received."
     },
     "message--getNotificationText--photo": {
-        "message": "Billed",
+        "message": "Billede",
         "description": "Shown in notifications and in the left pane when a photo is received."
     },
     "message--getNotificationText--video": {
